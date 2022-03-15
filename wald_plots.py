@@ -226,6 +226,8 @@ def compare_roc_curves_to_asymptotics(xmpl, model, calib_funcs, auto_rescale, ob
     plot_profile(xmpl, model, calib_funcs, auto_rescale, obs_data, axarr=[axarr['E'],axarr['F']])
 
     plot_trained_model_and_exdata(xmpl, model, null, alt, ax = axarr['G'])
+    f.set_facecolor('w')
+
 
 def neural_neyman(xmpl, model, calib_funcs, obs_data):
 
