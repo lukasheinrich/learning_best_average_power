@@ -1,1 +1,2 @@
-# learning_profile_liklihoods
+# Learning Profile Likelihoods
+
