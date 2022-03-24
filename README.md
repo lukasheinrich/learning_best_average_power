@@ -1,4 +1,4 @@
-# Learning Profile Likelihoods
+# Learning Best Average Power (... and somtimes Profile Likelihoods)
 
 
 ![Alt text](gauss_fig.png?raw=true "Title")
